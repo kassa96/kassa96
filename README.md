@@ -9,10 +9,6 @@ I am a junior Data Scientist passionate about artificial intelligence and machin
 Currently, I work at Zone 01 Dakar Agency where I develop AI solutions for various sectors. I am constantly seeking learning opportunities and continuous improvement, particularly through the advanced certified training "MLPro" by the renowned French AI expert Guillaume in the field of deep learning and LLMs.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kassa96&label=Profile%20views&color=0e75b6&style=flat" alt="kassa96" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kassa96" alt="kassa96" /></a> </p>
-
 ## Completed Projects
 
 - **Face Emotion Detection**: Real-time application for detecting emotions (happy, neutral, angry, surprised, disgusted, sad) on faces.

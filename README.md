@@ -27,7 +27,7 @@ Currently, I work at Zone 01 Dakar Agency where I develop AI solutions for vario
 - 🔍 **Web Scraping**: Beautiful Soup, Selenium
 - 💻 **Web Development**: HTML/CSS, JavaScript, Python, Golang
 - ⚙️ **Web Frameworks**: React, Angular, FastAPI
-- 🔄 **DevOps**: Docker, Git, CI/CD
+- 🔄 **DevOps**: Docker
 
 ## Education
 
